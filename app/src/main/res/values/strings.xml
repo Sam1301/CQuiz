@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CQuiz</string>
+    <string name="yes_text_radiobutton">Yes</string>
+    <string name="no_text_radiobutton">No</string>
+    <string name="maybe_text_radiobutton">Maybe</string>
+    <string name="depends_text_radiobutton">Depends</string>
+    <string name="question_1">Can we represent 0.1 exactly in memory ?</string>
+    <string name="question_2">What is/are different storage class specifiers ?</string>
+    <string name="auto_text_checkbox">Auto</string>
+    <string name="extern_text_checkbox">Extern</string>
+    <string name="static_text_checkbox">Static</string>
+    <string name="register_text_checkbox">Register</string>
+    <string name="question_3">Which operator can be used to find size of arrays ?</string>
+    <string name="rom_text_radiobutton">Rom Leak</string>
+    <string name="leak_text_radiobutton">Leak</string>
+    <string name="memory_text_radiobutton">Memory Leak</string>
+    <string name="error_text_radiobutton">Error</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="score_toast">Score: %d/4</string>
+    <string name="question_4">Is it possible to swap values of two variables without using a third ?</string>
+</resources>
